@@ -6,6 +6,11 @@ import java.util.Map;
 import basics.bean.Friend;
 
 public class LearnHashMap {
+	
+	/*
+	 * Note that this implementation is not synchronized
+	 * 
+	 */
 
 	public static void main(String[] args) {
 
