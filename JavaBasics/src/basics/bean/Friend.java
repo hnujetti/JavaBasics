@@ -5,6 +5,7 @@ public class Friend {
 	String name;
 	Integer age;
 
+	//Constructor
 	public Friend() {
 		super();
 	}
