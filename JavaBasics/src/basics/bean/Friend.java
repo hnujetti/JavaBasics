@@ -1,6 +1,7 @@
 package basics.bean;
 
 public class Friend {
+	//Fields
 	String name;
 	Integer age;
 
